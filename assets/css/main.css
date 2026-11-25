@@ -1,0 +1,13 @@
+/* ==========================================================================
+   Skyline Residences - Clean Overrides (Hide Framer Watermark & Editor Overlays)
+   ========================================================================== */
+
+#__framer-badge-container,
+#__framer-editorbar,
+#__framer-editorbar-container,
+#template-overlay {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}

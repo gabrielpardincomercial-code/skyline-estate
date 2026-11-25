@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+__pycache__/
+*.pyc
+*.log
+/tmp/
+debug_*.png
+verify_*.js
